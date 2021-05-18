@@ -1,2 +1,2 @@
 # azure-iot-blog
-This directory contains sample applications showing how to use different features of the Microsoft Azure IoT.
+This repository contains code for my blog [https://jev-pankov.com/](https://jev-pankov.com/). Sample applications show how to use different features of the Microsoft Azure IoT.

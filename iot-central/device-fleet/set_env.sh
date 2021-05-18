@@ -1,0 +1,6 @@
+export PROVISIONING_HOST=global.azure-devices-provisioning.net
+export PROVISIONING_IDSCOPE=0ne0027737B
+export DPS_X509_REGISTRATION_ID=device-01
+export MODEL_ID=dtmi:jpTelemetry002:WindSpeed6f2;1
+export X509_CERT_FILE=device01_cert.pem
+export X509_KEY_FILE=device01_key.pem

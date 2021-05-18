@@ -1,0 +1,6 @@
+SET PROVISIONING_HOST=global.azure-devices-provisioning.net
+SET PROVISIONING_IDSCOPE=0ne0027737B
+SET DPS_X509_REGISTRATION_ID=device-01
+SET MODEL_ID=dtmi:jpTelemetry002:WindSpeed6f2;1
+SET X509_CERT_FILE=device01_cert.pem
+SET X509_KEY_FILE=device01_key.pem
